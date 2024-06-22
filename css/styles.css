@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    font-family: 'inter';
+}
+
+html, body {
+    background-color: #1A1A1A;
+    color: #e5e5e5;
+}
